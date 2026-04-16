@@ -27,7 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Snake Animation
-![snake animation](https://github.com/sarahemilylo/sarahemilyloE/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/sarahemilylo/sarahemilyloE/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
