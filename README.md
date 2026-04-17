@@ -32,10 +32,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarahemilylo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ## 🐍 Snake Animation
-![Snake Animation](https://github.com/sarahemilylo/sarahemilylo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/sarahemilylo/sarahemilylo/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!--Rainbow Line-->
 <p align="center">
