@@ -13,7 +13,7 @@
 
 <!--Name Anmiation-->
 <p align="center">
-  ![gitartwork](gitartwork.svg)
+  <img src="gitartwork.svg" />
 </p>
 
 <!--Description-->
