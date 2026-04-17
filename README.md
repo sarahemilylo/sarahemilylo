@@ -3,13 +3,16 @@
 
 <!--Greet Line-->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;I'm+Sarah+🩷;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;I'm+Sarah!+🩷;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
 <!--Rainbow Line-->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
+
+<!--Name Anmiation-->
+![gitartwork](gitartwork.svg)
 
 <!--Description-->
 # 💫 About Me:
@@ -26,23 +29,11 @@
 ![](https://streak-stats.demolab.com/?user=sarahemilylo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarahemilylo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--Name Anmiation-->
-![gitartwork](gitartwork.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🐍 Snake Animation
 ![Snake Animation](https://github.com/sarahemilylo/sarahemilylo/blob/output/github-contribution-grid-snake.svg)
-
-<!--Line Fade-->
-<!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
--->
-<!--Line-->
-<!--<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
--->
 
 <!--Rainbow Line-->
 <p align="center">
