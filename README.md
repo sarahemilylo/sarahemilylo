@@ -12,7 +12,9 @@
 </p>
 
 <!--Name Anmiation-->
-![gitartwork](gitartwork.svg)
+<p align="center">
+  ![gitartwork](gitartwork.svg)
+</p>
 
 <!--Description-->
 # 💫 About Me:
